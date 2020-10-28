@@ -1,14 +1,16 @@
 import pyautogui
 import time
 
-
-#  Select all(X:276, Y: 221) Delete(X:424, Y:221)
-
 try: 
   while True:
-    pyautogui.click(x=276, y=221)
-    pyautogui.click(x=424, y=221)
-    time.sleep(2)
+    # DELETE
+
+    # Select all
+    # pyautogui.click(x=?, y=?)
+
+    # Delete
+    # pyautogui.click(x=?, y=?)
+    # time.sleep(2) 
     
 
     # FOR COORDINATES
